@@ -1,4 +1,4 @@
-# Basic_Resposnsives
+# Basic_Responsives
 🌟 Responsive Login Forms 🌟
 A collection of beautifully crafted,fully responsive login forms
 designed to enhance user experience on any device. 💻📱 
